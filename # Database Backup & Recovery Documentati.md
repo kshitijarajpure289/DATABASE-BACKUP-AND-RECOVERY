@@ -5,7 +5,7 @@ This document outlines the process of backing up and restoring the `task1` datab
 
 ---
 
-## 1️.Backup Process
+## 1.Backup Process
 
 ### MySQL Backup
 To back up the `task1` database in MySQL:
@@ -29,7 +29,7 @@ To back up the `task1` database in PostgreSQL:
 
 ---
 
-## 2️.Recovery (Restore) Process
+## 2.Recovery (Restore) Process
 
 ### MySQL Restore
 To restore the database in MySQL:
